@@ -1,0 +1,12 @@
+{
+  "cost": 7,
+  "hardness": 8,
+  "color": "00416a",
+  "research": {
+    "parent": "ida",
+    "requirements": [
+      "ida/500",
+      "irrage/1000"
+    ]
+  }
+}

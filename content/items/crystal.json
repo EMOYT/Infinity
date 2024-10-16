@@ -1,0 +1,12 @@
+{
+  "hardness": 2,
+  "cost": 3,
+  "charge": 0,
+  "color": "7fc7ff",
+  "research": {
+    "parent": "crystal-half",
+    "requirements": [
+      "crystal-half/50"
+    ]
+  }
+}

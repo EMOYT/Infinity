@@ -1,0 +1,21 @@
+color: #005F6A
+barColor: #005F6A
+effect: "slow-2"
+
+viscosity: 0.5
+temperature: -0.05
+heatCapacity: 5
+
+coolant: false
+
+particleEffect: {
+    particles: 1
+    length: 0
+    lifetime: 60
+    sizeFrom: 1
+    sizeTo: 0
+    colorFrom: 004953
+    colorTo: 003841
+}
+
+alwaysUnlocked: true

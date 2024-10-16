@@ -1,0 +1,21 @@
+type: CoreBlock
+category: effect
+health: 5000
+size: 4
+
+itemCapacity: 4000
+unitCapModifier: 15
+unitType: "evoke"
+incinerateNonBuildable: true
+isFirstTier: true
+squareSprite: false
+
+requirements: [
+    "blue-fauktur/10"
+    "crystal/50"
+    "irrage/1750"
+    "burn-stone/1000"
+]
+alwaysUnlocked: true
+
+"parent": "team-electrians",

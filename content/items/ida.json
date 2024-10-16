@@ -1,0 +1,11 @@
+{
+  "cost": 1,
+  "charge": 0.09,
+  "color": "da70d6",
+  "research": {
+    "parent": "blue-fauktur",
+    "requirements": [
+      "ida/200"
+    ]
+  }
+}
