@@ -1,3 +1,2 @@
 <img src="https://raw.githubusercontent.com/EMOYT/Infinity/refs/heads/main/Background.png"/>
-# **What mod adds?**
-**Adding a little content**
+## WELCOME TO INFINITY MOD
