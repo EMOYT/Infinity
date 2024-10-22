@@ -1,0 +1,10 @@
+{
+  "temperature": 0.05,
+  "viscosity": 0.06,
+  "gas": true,
+  "lightColor": "ddeeff",
+  "effect": "slow-1",
+  "color": "ddeeff",
+  "research": "axin"
+}
+

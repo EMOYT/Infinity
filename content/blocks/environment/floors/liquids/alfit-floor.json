@@ -1,0 +1,11 @@
+type: Floor
+variants: 0
+
+isLiquid: true
+liquidDrop: alfit
+status: alfited
+statusDuration: 160
+speedMultiplier: -0.1
+drownTime: 220
+
+cacheLayer: water

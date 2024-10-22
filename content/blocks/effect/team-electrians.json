@@ -1,0 +1,9 @@
+{
+  "localizedName": "[#ace5ee]Electrians",
+  "description": "[#ace5ee]The Electrians faction.[]",
+  "alwaysUnlocked": true,
+  "buildVisibility": "editorOnly",
+  "type": "LightBlock",
+  "health": 1,
+  "size": 2,
+}

@@ -1,0 +1,28 @@
+{
+  "type": "GenericCrafter",
+  "drawer": {
+    "type": "DrawSmelter",
+    "flameColor": "ffc099"
+  },
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "itemCapacity": 20,
+  "craftTime": 80,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 3,
+    "items": {
+      "items": [
+        "sand/5",
+      ]
+    }
+  },
+  "requirements": [
+    "crystal/130",
+  ],
+  "category": "crafting",
+  "research": "crystal",
+  "outputItem": "crystal/5"
+}

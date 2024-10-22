@@ -1,0 +1,12 @@
+type: Floor
+variants: 0
+
+isLiquid: true
+liquidDrop: crystal-plasma
+
+status: slow-1
+statusDuration: 350
+speedMultiplier: 0
+drownTime: 180
+
+cacheLayer: water

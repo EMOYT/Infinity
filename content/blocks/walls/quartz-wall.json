@@ -1,0 +1,11 @@
+{
+  "type": "Wall",
+  "buildCostMultiplier": 0.1,
+  "health": 250,
+  "size": 1,
+  "requirements": [
+    "quartz/6"
+  ],
+  "category": "defense",
+  "research": "quartz"
+}

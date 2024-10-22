@@ -1,0 +1,18 @@
+type: CoreBlock
+category: effect
+health: 5000
+size: 4
+
+itemCapacity: 4000
+unitCapModifier: 15
+unitType: "evoke"
+incinerateNonBuildable: true
+isFirstTier: true
+squareSprite: false
+
+  "AlwaysUnlocked": true,
+  "research": {
+    "root": true,
+    "name": "[#ace5ee]Electrians",
+    "requiresUnlock": false,
+  }

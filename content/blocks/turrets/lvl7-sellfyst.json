@@ -1,0 +1,88 @@
+{
+  "type": "PowerTurret",
+  "researchCostMultiplier": 2,
+  "squareSprite": false,
+  "outlineColor": "36363CFF",
+  "size": 4,
+  "heatColor": "A9D8FFFF",
+  "health": 140000,
+  "reload": 250,
+  "range": 75,
+  "shoot": {
+    "type": "shootPattern",
+    "shots": 40,
+    "shotDelay": 3
+  },
+  "xRand": 2,
+  "inaccuracy": 2,
+  "recoil": 0.1,
+  "rotateSpeed": 3,
+  "shootSound": "laser",
+  "drawer": {
+    "type": "drawTurret",
+    "basePrefix": "lvl7-sellfyst-"
+  },
+  "consumes": {
+    "power": 140
+  },
+  "hasPower": true,
+  "shootType": {
+    "type": "BasicBulletType",
+    "speed": 5,
+    "spin": 1,
+    "lifetime": 35,
+    "frontColor": "E4FDFFFF",
+    "backColor": "66B1FFFF",
+    "trailColor": "66B1FFFF",
+    "weaveMag": 1,
+    "weaveScale": 7,
+    "trailParam": 5,
+    "trailLength": 17,
+    "trailWidth": 2,
+    "trailEffect": "none",
+    "status": "freezing",
+    "damage": 35,
+    "homingPower": 0.0789,
+    "homingRange": 300,
+    "despawnEffect": {
+      "type": "ParticleEffect",
+      "line": true,
+      "particles": 5,
+      "lifetime": 50,
+      "length": 20,
+      "cone": -360,
+      "lenFrom": 5,
+      "lenTo": 0,
+      "colorFrom": "E4FDFFFF",
+      "colorTo": "66B1FFFF"
+},
+
+    "hitEffect": {
+      "type": "ParticleEffect",
+      "line": true,
+      "particles": 10,
+      "lifetime": 50,
+      "length": 20,
+      "cone": -360,
+      "lenFrom": 5,
+      "lenTo": 0,
+      "colorFrom": "E4FDFFFF",
+      "colorTo": "66B1FFFF"
+    },
+    "width": 21,
+    "height": 21,
+    "shrinkY": 0,
+    "shrinkX": 0,
+    "sprite": "infinity-energy-particle"
+  },
+
+  "requirements": [
+    "crystal/6000",
+    "aerous/3000",
+    "polunium/1000",
+    "irrage/100",
+    "catalyst/1",
+  ],
+  "category": "turret",
+//  "research": "c-armada"
+}
