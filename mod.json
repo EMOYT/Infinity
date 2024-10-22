@@ -1,0 +1,13 @@
+displayName: "[purple[]] Infinity"
+author: "[red[]]ZevoKJM"
+name: "infinity"
+// main: "inf.infinityMod"
+description: "
+[#00382b[]]I[#013a33[]]n[#1f4037[]]f[#2f4538[]]in[#1f4037[]]i[#013a33[]]t[#00382b[]]y 0.2Z
+[white[]]Mindustry Modification 10.10.2024
+"
+subtitle: "[green[]]Update every week/month"
+"dependencies": [calamity, infmp],
+version: "0.1.3.2"
+
+minGameVersion: 146
