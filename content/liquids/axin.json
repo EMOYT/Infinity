@@ -1,5 +1,6 @@
 {
   "temperature": -1,
+  "frames": 28,
   "gas": true,
   "lightColor": "4b0082",
   "effect": "slow-1",

@@ -1,6 +1,7 @@
 {
   "hardness": 2,
   "cost": 3,
+  "frames": 7,
   "charge": 0,
   "color": "7fc7ff",
   "AlwaysUnlocked": false,

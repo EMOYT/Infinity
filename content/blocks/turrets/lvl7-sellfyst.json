@@ -77,7 +77,7 @@
   },
 
   "requirements": [
-    "crystal/6000",
+    "crystal/4000",
     "aerous/3000",
     "polunium/1000",
     "irrage/100",

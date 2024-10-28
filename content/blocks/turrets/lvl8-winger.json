@@ -16,7 +16,7 @@
   "xRand": 3,
   "inaccuracy": 1,
   "recoil": 0.1,
-  "rotateSpeed": 6,
+  "rotateSpeed": 1,
   "shootSound": "laser",
   "drawer": {
     "type": "drawTurret",

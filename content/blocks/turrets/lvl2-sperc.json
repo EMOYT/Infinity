@@ -16,7 +16,7 @@
     "type": "drawTurret",
     "basePrefix": "lvl2-sperc-"
   },
-  "xRand": 12,
+  "xRand": 2,
   "recoil": 0.7,
   "rotateSpeed": 7,
   "shootSound": "laser",

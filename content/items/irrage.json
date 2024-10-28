@@ -1,5 +1,6 @@
 {
   "hardness": 8,
+  "frames": 15,
   "cost": 7,
   "charge": 0.9,
   "color": "660099",
